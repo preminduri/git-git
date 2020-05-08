@@ -1,3 +1,5 @@
 this is devops course 
 
 trying to learn devops
+
+almost completed learning git 
