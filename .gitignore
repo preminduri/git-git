@@ -2,3 +2,5 @@
 Testfile
 *.log
 *.swp
+app.log
+ton.log
